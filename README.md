@@ -4,7 +4,7 @@ Cisco packet tracer DHCP server lab with 3 VLANs(Admin, Staff Students)2960 swit
 Screenshot 2026-09-22 111151.png
 #commands
 commands.txt
-  
+  https://github.com/Slim-source/cisco-dhcp-vlan-lab/blob/main/commands.txt
   
   
   
